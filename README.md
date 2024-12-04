@@ -20,15 +20,22 @@ If you don’t already have PLAXIS, you can learn more and purchase a license at
 - **Visualization**: Generate high-quality plots and animations for improved geotechnical data interpretation.  
 - **Compatibility**: Supports multiple constitutive models implemented in PLAXIS.  
 
-## Requirements  
+## How to Use  
 
-1. **PLAXIS**: An active PLAXIS license is required to use these tools.  
-2. **Python**: Version 3.7 or higher.  
-3. **Python Libraries**: See `requirements.txt` for a list of necessary dependencies.  
+Examples and detailed usage instructions will be provided soon.  
 
-## Installation  
+## Support  
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/PLAXISPlayground.git
-   cd PLAXISPlayground
+If you find this project useful and would like to support its development, you can:  
+
+- **Buy me a coffee**: [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-yellow)](https://www.buymeacoffee.com/yourusername)  
+- **Share your feedback**: Suggestions and recommendations are always welcome! Feel free to open an issue or reach out directly.  
+
+## Contact  
+
+If you’d like to get in touch, feel free to:  
+
+- **Connect on LinkedIn**: [Nicolás Tasso](https://www.linkedin.com/in/nicolas-tasso/)  
+- **Email me**: [nicolas.tasso@example.com](mailto:nicolas.tasso@example.com)  
+
+I’m always happy to hear your feedback, suggestions, or discuss potential collaborations!
